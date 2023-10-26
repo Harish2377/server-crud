@@ -1,12 +1,10 @@
 {
-    "employee": [
-      {
-        "name": "Nihira techiees",
-        "email": "nihiratechiees@gmail.com",
-        "phone": "98899090",
-        "active": true,
-        "id": 1
-      }
-      
-    ]
-  }
+  "employee": [
+    {
+      "id": 1,
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "phone": "324354453533533"
+    }
+  ]
+}
